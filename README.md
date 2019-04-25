@@ -1,5 +1,7 @@
-# Crawler example in Scrapy framework
+# 
 
-Crawling company name, symbol and real time stock price from all company listings on http://www.advfn.com/nasdaq/nasdaq.asp
+1. NASDAQ crawler in Scrapy framework: crawling company name, symbol and real time stock price from all company listings on http://www.advfn.com/nasdaq/nasdaq.asp. Main Python codes in NASDAQ.py
 
-Main Python codes in NASDAQ.py
+2. NetEase Cloud Music Crawler: crawling NetEase music list using Selenium
+
+
